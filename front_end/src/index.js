@@ -12,5 +12,3 @@ ReactDOM.render(
 );
 
 reportWebVitals();
-
-// Hello Bitches
