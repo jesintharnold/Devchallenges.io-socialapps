@@ -12,7 +12,7 @@ const Navbar = () => {
 	return (
 		<div className="min-w-full bg-navbar fixed top-0 right-0 left-0 flex justify-between items-center px-4 py-1">
 			<img src={tweeterApp} className="h-7 w-auto" />
-			<div className="flex justify-between gap-10 items-center px-2  ">
+			<div className="justify-between gap-10 items-center px-2  hidden lg:flex">
 				{nav_path.map(({ path, name }, index) => (
 					<NavLink
 						to={`${path}`}
