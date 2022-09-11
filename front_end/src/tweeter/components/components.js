@@ -1,3 +1,4 @@
 import Navbar from "./Navbar";
 import Tweetbox from "./Tweetbox";
-export { Navbar, Tweetbox };
+import Trends from "./Trends";
+export { Navbar, Tweetbox, Trends };

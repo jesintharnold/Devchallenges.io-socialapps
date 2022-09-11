@@ -13,7 +13,9 @@ module.exports = {
 				"tweeter-focus":"#F2F2F2",
 				"tweeter-green":"#27AE60",
 				"tweeter-red":"#EB5757",
-				"tweeter-blue":"#2D9CDB"
+				"tweeter-blue":"#2D9CDB",
+				"tweeter-gray":"#4F4F4F",
+				"tweeter-trend-gray":"#333333"
 			},
 			fontFamily:{
 				"poppins":["'Poppins'"],
