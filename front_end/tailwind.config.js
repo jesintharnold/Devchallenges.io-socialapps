@@ -18,6 +18,9 @@ module.exports = {
 			fontFamily:{
 				"poppins":["'Poppins'"],
 				"sans":["Noto Sans"]
+			},
+			boxShadow:{
+				"tweet":"0px 2px 4px rgba(0, 0, 0, 0.05)"
 			}
 		},
 	},
