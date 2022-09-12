@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable prettier/prettier */
 import { Switch, useRouteMatch } from "react-router-dom";
-import {Navbar, Trends} from "./components/components";
+import {Navbar, Trends, Whotofollow} from "./components/components";
 
 
 const Tweeter = () => {
@@ -9,7 +9,7 @@ const Tweeter = () => {
 	return (
 		<div className="min-w-full relative">
 			<Navbar/>
-        
+            <Whotofollow/>
             <div>
             <Switch>
                 <></>

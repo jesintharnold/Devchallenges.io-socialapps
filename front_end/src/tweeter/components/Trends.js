@@ -16,7 +16,7 @@ const trend_json = [
 const Trends = () => {
 	const { path } = useRouteMatch();
 	return (
-		<div className="px-4 py-2">
+		<div className="px-4 py-2 bg-navbar rounded-xl">
 			<span className="font-poppins font-semibold text-tweeter-gray mb-1">
 				Trends for you
 			</span>
