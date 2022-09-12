@@ -20,4 +20,5 @@
 
 
 ##### TODO
--   [ ] Overflow-y-scroll hidden (auto scroll)
+- [ ] Overflow-y-scroll hidden (auto scroll)
+- [ ] whotofollow component corner will be resolved by TODO-1
